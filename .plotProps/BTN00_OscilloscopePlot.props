@@ -1,0 +1,17 @@
+#/home/kelvin/CapTIvateDesignCenter_1_83_00_08/CapTIvateDesignCenterWorkspace/UNTITLED/.plotProps/BTN00_OscilloscopePlot.props Plotter Data
+#Mon Jul 10 08:13:26 EDT 2023
+xmin=0.000000
+ymax=10.000000
+titleFont=helvetica-BOLD-24
+xrangetype=true
+xmax=10.000000
+labelFont=helvetica-BOLD-12
+xlabel=Time
+graphtype=PtsCon
+vert_data_grid=false
+persistence=2000
+yrangetype=true
+ymin=0.000000
+ylabel=Channel Data
+legendFont=helvetica-BOLD-14
+horiz_data_grid=true

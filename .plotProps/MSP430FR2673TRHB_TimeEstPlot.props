@@ -1,0 +1,17 @@
+#/home/kelvin/CapTIvateDesignCenter_1_83_00_08/CapTIvateDesignCenterWorkspace/UNTITLED/.plotProps/MSP430FR2673TRHB_TimeEstPlot.props Plotter Data
+#Mon Jul 10 08:09:54 EDT 2023
+xmin=0.000000
+ymax=2.000000
+titleFont=helvetica-BOLD-24
+Signal.alias.--Sensors\ Total--=0.000ms
+xmax=42.900000
+--Sensors\ Total--=on
+labelFont=helvetica-BOLD-12
+xlabel=Time
+graphtype=PtsCon
+persistence=2000
+ymin=0.000000
+legendFont=helvetica-BOLD-14
+ylabel=Channel Data
+Signal.alias.--Scan\ Period--=33.000ms
+--Scan\ Period--=on

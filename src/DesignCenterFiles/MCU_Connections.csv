@@ -1,0 +1,3 @@
+Sensor, Electrode, MCU Pin, Package Pin
+BTN01,RX00,CAP1.1,17
+BTN00,RX00,CAP2.1,22
